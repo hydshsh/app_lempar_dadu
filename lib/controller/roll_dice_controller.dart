@@ -75,9 +75,15 @@ class _RollDiceControllerState extends State<RollDiceController> {
           SizedBox(
             height: 8,
           ),
-          TextButton(
+          ElevatedButton(
             onPressed: rollDice,
-            child: StyledText('- Lempar Dadu -'),
+            child: Text(
+              'Lempar Dadu',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
           ),
         ],
       ),

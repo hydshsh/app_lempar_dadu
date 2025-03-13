@@ -1,0 +1,2 @@
+D:/0 Project Drive/app_lempar_dadu/android/app/.cxx/Debug/w6blf4r2/x86_64/CMakeFiles/edit_cache.dir
+D:/0 Project Drive/app_lempar_dadu/android/app/.cxx/Debug/w6blf4r2/x86_64/CMakeFiles/rebuild_cache.dir
